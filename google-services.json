@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "780764305818",
+    "project_id": "testingpushnotofication",
+    "storage_bucket": "testingpushnotofication.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780764305818:android:7d60ffa55477f232c4c223",
+        "android_client_info": {
+          "package_name": "com.bosslifeempire.skillgap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIpeU1pIwFToWDuh4wjXFvoOoBBJxoX20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780764305818:android:423f6c2ea8aee020c4c223",
+        "android_client_info": {
+          "package_name": "skillgap_test_notification.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIpeU1pIwFToWDuh4wjXFvoOoBBJxoX20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
